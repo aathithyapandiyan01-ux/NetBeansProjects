@@ -66,7 +66,7 @@ public class DepositNWithDraw
                     ca[i].setInitialBalance(initialBalance);
                     System.out.println("AMOUNT DEPOSITED SUCCESSFULLLY");
                     found = true ;
-                    return;
+                    
             }
           }
         if(!found) 
